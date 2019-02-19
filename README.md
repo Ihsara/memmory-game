@@ -3,7 +3,8 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [Contributing](#contributing)
+* [About](#about)
+* [Dependencies](#dependencies)
 
 ## Instructions
 
@@ -13,9 +14,10 @@ To get started, open `js/app.js` and start building out the app's functionality
 
 For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
-## Contributing
+## About
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+This work is done by Trần Long Châu as a project for Udacity memory-game project. 
 
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
-"# memmory-game" 
+## Dependencies
+
+[Tingle.js](https://robinparisi.github.io/tingle/)
