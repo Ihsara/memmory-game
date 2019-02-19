@@ -84,10 +84,13 @@ h1 {
 /*
  * Styles for the Score Panel
  */
+.row {
+    width: 100%;
+}
 
 .score-panel {
     text-align: left;
-    width: 345px;
+    width: 375px;
     margin-bottom: 10px;
 }
 
